@@ -1,5 +1,5 @@
 <div>
-    <img src="./assets/banner-alegita.gif" alt="Hello World!"/>
+    <img src="./assets/banner-alegitaV2.png" alt="Hello World!"/>
 </div>
 
 <!--
