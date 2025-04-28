@@ -16,22 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
-- 🔭 I’m currently working on full stack development 
-- 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on backend, web development, AI, data processing
-- 💬 Ask me about anything, i love to help
-- 😄 Pronouns: she/her
+## ʜɪ ᴛʜᴇʀᴇ 👋
+- 🔭 I’m currently working on 𝑓𝑢𝑙𝑙 𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
+- 🌱 I’m currently learning 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒
+- 👯 I’m looking to collaborate on 𝑏𝑎𝑐𝑘𝑒𝑛𝑑, 𝑤𝑒𝑏 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡, 𝐴𝐼, 𝑑𝑎𝑡𝑎 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔
+- 😄 Pronouns 𝑠ℎ𝑒/ℎ𝑒𝑟
 
-## About me
+## ᴀʙᴏᴜᴛ ᴍᴇ
 - 🧠 Lifelong learner, tech explorer, creative
-- 🎓 Bachelor's degree in Informatics Engineering (CS)
+- 🎓 Bachelor's degree in Computer Science
 - 🌎 Fluent in Spanish, advanced English
-- 📫 How to reach me:
-  <p> <a href="https://www.linkedin.com/in/alegonzalesa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/alegita" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+- 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:
+  <p> <a href="mailto:alejandraxcx23@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/alegita" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
-## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=py,js,go,java,postgres,mysql,cassandra,fastapi,flask,django,aws,react,tailwind,laravel,androidstudio,bootstrap,git,github,bitbucket,vscode,postman)](https://skillicons.dev)
+## ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+[![My Skills](https://skillicons.dev/icons?i=py,js,go,java,postgres,mysql,cassandra,fastapi,flask,django,aws,react,tailwind,laravel,androidstudio,bootstrap,git,github,bitbucket,vscode,postman,notion)](https://skillicons.dev)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=alegita.visitor-badge&left_color=red&right_color=black) 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=alegita.visitor-badge&left_color=red&right_color=black)
+<!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=alegita%2Fgithub-visitors-badge&countColor=%23f47373)](https://visitorbadge.io/status?path=alegita%2Fgithub-visitors-badge)-->
+
