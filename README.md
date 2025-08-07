@@ -1,7 +1,3 @@
-<div>
-    <img src="./assets/banner-alegitaV2.png" alt="Hello World!"/>
-</div>
-
 <!--
 **alegita/alegita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns 𝑠ℎ𝑒/ℎ𝑒𝑟
 
 ## ᴀʙᴏᴜᴛ ᴍᴇ
-- 🧠 Lifelong learner, tech explorer, creative
+- 🧠 Lifelong learner, tech explorer, highly motivated
 - 🎓 Bachelor's degree in Computer Science
 - 🌎 Fluent in Spanish, advanced English
 - 📫 𝐻𝑜𝑤 𝑡𝑜 𝑟𝑒𝑎𝑐ℎ 𝑚𝑒:
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/alegita" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 ## ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
-[![My Skills](https://skillicons.dev/icons?i=py,js,go,java,postgres,mysql,cassandra,fastapi,flask,django,aws,react,tailwind,laravel,androidstudio,bootstrap,git,github,bitbucket,vscode,postman,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,go,java,postgres,mysql,cassandra,django,fastapi,flask,aws,react,tailwind,vue,docker,nodejs,express,laravel,androidstudio,bootstrap,git,github,bitbucket,vscode,postman,notion)](https://skillicons.dev)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=alegita.visitor-badge&left_color=red&right_color=black)
 <!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=alegita%2Fgithub-visitors-badge&countColor=%23f47373)](https://visitorbadge.io/status?path=alegita%2Fgithub-visitors-badge)-->
